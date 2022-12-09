@@ -10,7 +10,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "bootstrap-vue": "^2.0.0-rc.15",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "firebase": "^5.9.1",
     "joi": "^13.7.0",
     "mysql": "^2.16.0",
